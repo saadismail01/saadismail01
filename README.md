@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in United Arab Emirates
+* 🌍  I'm based in Lebanon | United Arab Emirates
 * 🖥️  See my portfolio at [MyPortfolio](http://saad-ismail-portfolio.vercel.app/)
 * ✉️  You can contact me at [saadismail001@gmail.com](mailto:saadismail001@gmail.com)
 
